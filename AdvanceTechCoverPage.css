@@ -1,0 +1,51 @@
+.card-tech-container {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-heading {
+    color: #5752ab;
+    font-style: bold;
+    font-family: "bree serif";
+    font-size: 24px;
+    padding: 15px;
+    font-weight: 26px;
+}
+
+.card-paragraph {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 18px;
+    padding: 15px;
+}
+
+.card-button-container {
+    height: 70px;
+    width: 400px;
+    margin: 15px;
+    font-size: 12px;
+}
+
+.button-white {
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    color: #171f46;
+    border-width: 2px;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+.button-violet {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-width: 0px;
+    margin: 15px;
+    border-radius: 8px;
+}
