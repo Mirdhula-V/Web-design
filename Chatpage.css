@@ -1,0 +1,55 @@
+.person-name {
+    color: white;
+    background-color: #323f4b;
+    font-style: normal;
+    text-align: center;
+    padding: 15px;
+    height: 30px
+}
+
+.message-container {
+    padding: 20px;
+}
+
+.bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 100vw;
+}
+
+.message-text {
+    font-family: "Roboto";
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.message-send {
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin: 15px;
+    height: 10px;
+    padding: 15px;
+    font-style: normal;
+
+}
+
+.message-receiver {
+    text-align: left;
+    background-color: #52606d;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 15px;
+    height: 10px;
+    padding: 15px;
+    font-style: normal;
+}
+
+.mesage-container {
+    padding: 5px;
+}
