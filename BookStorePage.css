@@ -1,0 +1,130 @@
+.book-store-home-page-bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.book-store-home-page-heading {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 24px;
+}
+
+.book-store-home-page-card-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.book-store-home-page-card-image {
+    height: 180px;
+    width: 120px;
+}
+
+.book-store-home-page-card-heading {
+    font-family: "bree serif";
+    font-size: 16px;
+    color: #183b56;
+}
+
+.book-store-home-page-card-text-alignment {
+    padding: 15px;
+}
+
+.book-store-home-page-card-para-1 {
+    font-family: "bree serif";
+    font-size: 13px;
+    color: #06070d;
+}
+
+.book-store-home-page-card-para-2 {
+    font-family: "bree serif";
+    font-size: 10px;
+    color: #183b56;
+}
+
+.book-store-home-page-card-button {
+    height: 30px;
+    width: 85px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.book-store-home-page-recommended-books {
+    margin-top: 10px;
+}
+
+.book-store-home-page-sub-heading {
+    font-family: "bree serif";
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.book-store-home-page-recommended-book-image {
+    height: 110px;
+    width: 70px;
+}
+
+.book-store-home-page-recommended-book-heading {
+    color: #e4e7eb;
+    font-family: "bree serif";
+    font-size: 16px;
+}
+
+.book-store-home-page-recommended-book-text-alignment {
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+.book-store-home-page-recommended-book-para-1 {
+    font-family: "bree serif";
+    font-size: 13px;
+    color: #9aa5b1;
+}
+
+.book-store-home-page-recommended-books-margin {
+    margin-top: 8px;
+}
+
+.book-details {
+    text-align: center;
+}
+
+.book-details-page-image {
+    height: 280px;
+    width: 180px;
+}
+
+.book-datails-page-heading {
+    font-family: "bree serif";
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.book-details-page-para-1 {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #9aa5b1;
+}
+
+.book-details-page-para-2 {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #e4e7eb;
+}
+
+.book-details-page-descriptions {
+    margin-top: 20px;
+}
+
+.book-details-back-button {
+    background-color: orange;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-right: 3px;
+    width: 50px;
+}
+
+.book-details-page-button {
+    margin: 5px;
+}
