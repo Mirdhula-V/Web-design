@@ -1,0 +1,56 @@
+.con-home-page {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 5px;
+}
+
+.con-home-page-image {
+    height: 250px;
+    width: 100vw;
+}
+
+.con-home-page-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.con-home-page-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.con-details-page {
+    padding: 2px;
+}
+
+.con-details-page-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    color: #183b56;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.con-details-page-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 550;
+    color: #5a7184;
+    text-align: center;
+}
+
+.con-details-page-content {
+    margin-right: 40px;
+}
+
+.con-details-page-button {
+    margin-top: 15px;
+}
