@@ -1,0 +1,113 @@
+.music-home-page-bg-color {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+}
+
+.music-home-page-upper-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 50vh;
+}
+
+.music-home-page-heading {
+    font-family: "bree serif";
+    font-size: 26px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.music-home-page-para {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.text-alignment {
+    padding: 80px;
+}
+
+.night-island-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 150px;
+    background-size: cover;
+    margin: 25px;
+}
+
+.night-island-card-heading {
+    font-family: "bree serif";
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.music-description {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 13px;
+}
+
+.night-island-card {
+    height: 200px;
+    width: 100vw;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    border-radius: 25px;
+    border-width: 0px;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+}
+
+.music-detail-page-image {
+    height: 45vh;
+}
+
+.music-detail-page-bg-container {
+    background-color: #03174c;
+    background-size: cover;
+}
+
+.music-detail-page-bottom {
+    padding: 15px;
+    margin: 10px;
+}
+
+.music-detail-page-heading {
+    font-family: "bree serif";
+    font-size: 28px;
+    color: #ffffff;
+}
+
+.music-detail-page-para-1 {
+    font-family: "bree serif";
+    font-size: 14px;
+    color: #98a1bd;
+}
+
+.music-detail-page-para-2 {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #98a1bd;
+    margin: 5px;
+}
+
+.sub-headings {
+    font-family: "bree serif";
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.music-detail-page-image {
+    height: 90px;
+    width: 120px;
+    margin: 5px;
+}
