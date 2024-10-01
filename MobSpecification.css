@@ -1,0 +1,39 @@
+.mobile-page-bg-container {
+    background-color: #ffffff;
+    border-color: #707070;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+}
+
+.mobile-page-image {
+    height: 280px;
+    width: 100vw;
+}
+
+.card-discription {
+    background-color: #ffffff;
+}
+
+.card-heading {
+    padding: 15px;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    color: #0a1f44;
+}
+
+.discriptions-points {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #707070;
+}
+
+.button-alignment {
+    margin: 15px;
+}
+
+.details-item {
+    margin-top: 10px;
+}
