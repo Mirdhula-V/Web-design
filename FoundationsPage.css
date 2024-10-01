@@ -1,0 +1,54 @@
+.foundation-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.foundation-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.card-text-align {
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.foundation-card-heading {
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.foundation-card-para {
+    font-family: "roboto";
+    font-size: 14px;
+    color: #7b8794;
+}
+
+.sub-headings {
+    font-family: "roboto";
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.image-align {
+    height: 40px;
+    width: 40px;
+    margin-left: 25px;
+}
+
+.alignment {
+    width: 120px;
+    padding: 15px;
+    border-color: #cbd2d9;
+    border-radius: 7px;
+    border-width: 1px;
+    border-style: solid;
+    margin: 7px;
+}
