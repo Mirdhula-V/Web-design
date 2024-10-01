@@ -1,0 +1,32 @@
+.container {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+    padding: 18px;
+}
+
+.sub-headings {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.about-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.more-images {
+    margin: 3px;
+    width: 150px;
+}
+
+.goa-video-container {
+    width: 96;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
