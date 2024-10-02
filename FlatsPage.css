@@ -1,0 +1,105 @@
+.home-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-page-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 40px;
+    text-align: center;
+}
+
+.card-heading {
+    color: #f19116;
+    font-family: "bree serif";
+    font-size: 24px;
+}
+
+.card-para {
+    color: #7b8794;
+    font-family: "bree serif";
+    font-size: 16px;
+}
+
+.card-button {
+    margin-top: 20px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    font-size: 12px;
+    height: 30px;
+    width: 80px;
+    margin: 15px;
+}
+
+.room-page-bg-container {
+    background-color: #222222;
+    background-size: cover;
+}
+
+.room-page-heading {
+    color: #f19116;
+    font-family: "bree serif";
+    font-size: 26px;
+    padding: 15px;
+}
+
+.room-page-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.room-page-card-image {
+    width: 30vw;
+}
+
+.room-page-card-heading {
+    color: #0f0e46;
+    font-family: "bree serif";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.text-aling {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.room-page-card-para {
+    color: #6c6b70;
+    font-family: "bree serif";
+    font-size: 14px;
+}
+
+.flat-details-page-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    padding: 15px;
+}
+
+.flat-details-image {
+    width: 100vw;
+    height: 40vh;
+}
+
+.location-image {
+    height: 25px;
+    margin-left: 15px;
+}
+
+.flat-details-page-para {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    width: 90%;
+}
