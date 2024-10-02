@@ -1,0 +1,70 @@
+.articles-home-page-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.home-page-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 28px;
+    margin-top: 15px;
+}
+
+.home-page-para {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 14px;
+}
+
+.image-card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 120px;
+    height: 80px;
+    margin: 7px;
+}
+
+.image-alignment {
+    height: 40px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.image-heading {
+    font-family: "roboto";
+    font-size: 14px;
+    padding: 10px;
+    text-align: center;
+}
+
+.details-page-bg-container {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 20px;
+}
+
+.details-page-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 22px;
+    margin-top: 25px;
+}
+
+.text-align {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin: 25px;
+    text-align: left;
+}
+
+.button-design {
+    background-color: #225db0;
+    border-color: #ffffff;
+    color: #ffffff;
+    font-size: 14px;
+    border-width: 1px;
+}
